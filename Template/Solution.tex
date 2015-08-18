@@ -13,7 +13,7 @@ Oriented Database. These basically provide an insfrastructure for different IPv4
 
 \subsubsection{Monitor}
 Basically, the Monitor simultaneously listens on IPv4 and IPv6 connections. Therefore facilitating effective management of purely IPv4, IPv6 and dual stacks without any extensive overhead. This is achieved through a number of components that, together, compose the Monitor. These are the modeling module, performance
-collecting module, SNMP/SSH channel module, events module and user interface. The user interface. The monitor can be found below the Distributed Object-Oriented Database and above the Collector on the proposed hierarchy of componenets that form the management model. It is therefore effectively a link between the two.
+collecting module, SNMP/SSH channel module, events module and user interface. The user interface. The monitor can be found below the Distributed Object-Oriented Database and above the Collector on the proposed hierarchy of componenets that form the management model. It is therefore effectively a link between the two. \cite{Johnny}
 
 \subsubsection{Collector}
 A collector is a device responsible for collecting a device’s network information using SMTP and SSH channels in an IPv4/v6 framework. As the collector is located directly under the monitor from the proposed hierarchy, this implies that the collector is managed by the monitor, only receiving refined configuration information and requests from the monitor though the relay module of the collector. 
