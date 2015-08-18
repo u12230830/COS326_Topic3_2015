@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  18 AUG 2015 11:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  18 AUG 2015 12:04
 entering extended mode
 **main.tex
 (C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\main.tex
@@ -332,7 +332,7 @@ LaTeX Info: Redefining \nameref on input line 13.
 \@outlinefile=\write3
 
 (C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\coverPage.tex
-<images/up-logo.jpg, id=59, 287.1528pt x 78.7743pt>
+<images/up-logo.jpg, id=55, 287.1528pt x 78.7743pt>
 File: images/up-logo.jpg Graphic file (type jpg)
  <use images/up-logo.jpg>
 Package pdftex.def Info: images/up-logo.jpg used on input line 6.
@@ -388,29 +388,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
  []
 
-) [4]
+)
 (C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\RelevanceOfUs
-e326.tex) [5]
-(C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\RelevanceOfUs
-eBusiness.tex) [6]
+e326.tex) [4]
 (C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\Conclusion.te
-x) [7]
+x) [5]
 (C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\main.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 
-[8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
  (C:\Users\ArmandWork\Documents\GitHub\COS326_Topic3_2015\Template\main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C870CACC4B06CF36B6E07A93BB2366E6;983.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
+(rerunfilecheck)             Checksum: 24023CFD4924AF3DD3EE91367A6D2ED5;929.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 5802 strings out of 493921
- 88450 string characters out of 3144861
- 173972 words of memory out of 3000000
+ 5797 strings out of 493921
+ 88233 string characters out of 3144861
+ 174000 words of memory out of 3000000
  8985 multiletter control sequences out of 15000+200000
  9319 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -420,9 +418,9 @@ Here is how much of TeX's memory you used:
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (9 pages, 142999 bytes).
+Output written on main.pdf (7 pages, 143263 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
