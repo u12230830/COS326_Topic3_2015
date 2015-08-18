@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.10)  18 AUG 2015 11:30
+=======
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.5)  18 AUG 2015 11:46
+>>>>>>> 48f74b8494ce4a52832c8a65dcfc2f3ec091b591
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,10 +374,51 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
  [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
 
+<<<<<<< HEAD
+ [2] (./Introduction.tex) [3] (./ProblemArea.tex) [4] (./Solution.tex) [5] (./A
+davantagesAndDisadvantages.tex
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 F
+      or centralized architectures maintenance is simple, one person or a te...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [6] (./RelevanceOfUse326.tex) [7] (./RelevanceOfUseBusiness.tex) [8]
+(./Conclusion.tex) [9]
+No file main.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+=======
+>>>>>>> 48f74b8494ce4a52832c8a65dcfc2f3ec091b591
 (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
 Package rerunfilecheck Info: File `main.out' has not changed.
+<<<<<<< HEAD
+(rerunfilecheck)             Checksum: 1BB8B1B145F489246958A43226608EAC;385.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+ ) 
+Here is how much of TeX's memory you used:
+ 5763 strings out of 493304
+ 85766 string characters out of 6139871
+ 176084 words of memory out of 5000000
+ 9130 multiletter control sequences out of 15000+600000
+ 6365 words of font info for 23 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 34i,6n,32p,594b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on main.pdf (10 pages, 98558 bytes).
+=======
 (rerunfilecheck)             Checksum: DB6C99DE1BBA620F30BEF055A1B08E53;948.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
  ) 
@@ -391,6 +436,7 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
 Output written on main.pdf (9 pages, 129416 bytes).
+>>>>>>> 48f74b8494ce4a52832c8a65dcfc2f3ec091b591
 PDF statistics:
  162 PDF objects out of 1000 (max. 8388607)
  143 compressed objects within 2 object streams

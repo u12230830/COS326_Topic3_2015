@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+\BOOKMARK [1][-]{section.1}{Your section name}{}% 1
+\BOOKMARK [1][-]{section.2}{Your section name}{}% 2
+\BOOKMARK [1][-]{section.3}{Your section name}{}% 3
+\BOOKMARK [1][-]{section.4}{Opinion on Advantages and Disavantages}{}% 4
+\BOOKMARK [1][-]{section.5}{Your section name}{}% 5
+\BOOKMARK [1][-]{section.6}{Your section name}{}% 6
+\BOOKMARK [1][-]{section.7}{Your section name}{}% 7
+=======
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Problem Area}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Centralized Network management}{section.2}% 3
@@ -12,3 +21,4 @@
 \BOOKMARK [1][-]{section.5}{Relevance of database systems in COS 326 and business organisations.}{}% 12
 \BOOKMARK [1][-]{section.6}{Your section name}{}% 13
 \BOOKMARK [1][-]{section.7}{Conclusion}{}% 14
+>>>>>>> 48f74b8494ce4a52832c8a65dcfc2f3ec091b591
