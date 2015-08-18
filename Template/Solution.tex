@@ -5,5 +5,24 @@
 %\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
 %\begin{document}
-\section{Your section name}
+\section{Solution to IPv4/IPv6 Trasition}
+
+\subsection{Proposed Management Model}
+There is a proposed database management model to cope with the coexistence of IPv4 and IPv6. This entails a distributed object-oriented database and hierarchical network management architecture. It mainly comprises of three particular components, namely, the Monitor, Collector and Distributed Object-
+Oriented Database. These basically provide an insfrastructure for different IPv4/IPv6 configurations and abstracts the dependence on the underlying architecture. Also incorporated into the this management model is the REST architecture and the Perspective Broker protocol. \cite{Zhao}
+
+\subsubsection{Monitor}
+Basically, the Monitor simultaneously listens on IPv4 and IPv6 connections. Therefore facilitating effective management of purely IPv4, IPv6 and dual stacks without any extensive overhead. This is achieved through a number of components that, together, compose the Monitor. These are the modeling module, performance
+collecting module, SNMP/SSH channel module, events module and user interface. The user interface. The monitor can be found below the Distributed Object-Oriented Database and above the Collector on the proposed hierarchy of componenets that form the management model. It is therefore effectively a link between the two.
+
+\subsubsection{Collector}
+A collector is a device responsible for collecting a device’s network information using SMTP and SSH channels in an IPv4/v6 framework. As the collector is located directly under the monitor from the proposed hierarchy, this implies that the collector is managed by the monitor, only receiving refined configuration information and requests from the monitor though the relay module of the collector. 
+The collector stores performance data in a local relational database RRD (Round Robin Database), and is therefore always available for use on the monitor’s request.
+The collector is said to also have the functionality of preventing attacks on a network, it supposedly does this by attracting and trapping degenerate attempts to penetrate the network. \cite{Baker}
+
+\subsubsection{OOD (Distributed Object Oriented Database)}
+The OOD in this IPv4/v6 topology is used by the monitors to store the devices’ objects and classes that have been abstracted from the configuration data retrieved from the collectors.
+The monitors do this by connecting to the OOD servers through OOD clients in each monitor instance. Using OOD clients prevents any local OOD faults from affecting the actual OOD server.
+The reason for using OOD in this scenario is to simplify relational mapping of the managed devices as well as the sharing thereof.
+
 %\end{document}
